@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mitzumov-portfolio/static/css/main.29cb4e6c.css",
-    "main.js": "/mitzumov-portfolio/static/js/main.5e4e851e.js",
+    "main.js": "/mitzumov-portfolio/static/js/main.6c2356d7.js",
     "static/js/550.23054114.chunk.js": "/mitzumov-portfolio/static/js/550.23054114.chunk.js",
     "static/js/967.9d2e28d9.chunk.js": "/mitzumov-portfolio/static/js/967.9d2e28d9.chunk.js",
     "static/js/531.5815ac53.chunk.js": "/mitzumov-portfolio/static/js/531.5815ac53.chunk.js",
@@ -9,7 +9,7 @@
     "static/js/55.ee07518c.chunk.js": "/mitzumov-portfolio/static/js/55.ee07518c.chunk.js",
     "index.html": "/mitzumov-portfolio/index.html",
     "main.29cb4e6c.css.map": "/mitzumov-portfolio/static/css/main.29cb4e6c.css.map",
-    "main.5e4e851e.js.map": "/mitzumov-portfolio/static/js/main.5e4e851e.js.map",
+    "main.6c2356d7.js.map": "/mitzumov-portfolio/static/js/main.6c2356d7.js.map",
     "550.23054114.chunk.js.map": "/mitzumov-portfolio/static/js/550.23054114.chunk.js.map",
     "967.9d2e28d9.chunk.js.map": "/mitzumov-portfolio/static/js/967.9d2e28d9.chunk.js.map",
     "531.5815ac53.chunk.js.map": "/mitzumov-portfolio/static/js/531.5815ac53.chunk.js.map",
@@ -18,6 +18,6 @@
   },
   "entrypoints": [
     "static/css/main.29cb4e6c.css",
-    "static/js/main.5e4e851e.js"
+    "static/js/main.6c2356d7.js"
   ]
 }
