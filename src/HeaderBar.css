@@ -1,0 +1,80 @@
+.header-bar {
+  position: fixed;
+  top: 32px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  align-items: center;
+  background: rgba(24, 30, 54, 0.92);
+  border-radius: 32px;
+  box-shadow: 0 4px 32px #0004;
+  padding: 0.5rem 1.5rem;
+  z-index: 100;
+  gap: 1.2rem;
+}
+
+.header-logo {
+  margin-right: 1.2rem;
+}
+
+.header-nav {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.header-btn {
+  background: none;
+  border: none;
+  outline: none;
+  color: #bfcfff;
+  font-size: 1.3rem;
+  border-radius: 24px;
+  padding: 0.5rem 1.1rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  transition: background 0.2s, color 0.2s;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.header-btn.active,
+.header-btn:hover {
+  background: #2d3a6a;
+  color: #7f8fff;
+}
+
+.header-label {
+  display: none;
+}
+
+@media (min-width: 600px) {
+  .header-label {
+    display: inline;
+    font-size: 1rem;
+    margin-left: 0.3rem;
+  }
+}
+
+.header-lang {
+  margin-left: 1.2rem;
+  background: #232b4a;
+  border-radius: 18px;
+  padding: 0.2rem 0.7rem;
+  display: flex;
+  gap: 0.5rem;
+  font-size: 1rem;
+  color: #bfcfff;
+}
+
+.header-lang span {
+  cursor: pointer;
+  padding: 0.1rem 0.5rem;
+  border-radius: 10px;
+  transition: background 0.2s, color 0.2s;
+}
+
+.header-lang .active {
+  background: #7f8fff;
+  color: #fff;
+} 
