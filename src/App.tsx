@@ -151,7 +151,7 @@ function App() {
               <div>
                 <div className="slide-content">
                   <h2>Обо мне</h2>
-                  <p>Я fullstack-разработчик, который любит создавать оригинальные и красивые сайты. Мне 17 лет, я обожаю аниме, ночное небо и необычные проекты.</p>
+                  <p>Я fullstack-разработчик, пишу сайты и работаю в хорощей команде simmoni.</p>
                   <div className="skills">
                     <span><FaReact size={20} color="#61dafb" /> React</span>
                     <span><FaNodeJs size={20} color="#8cc84b" /> Node.js</span>
